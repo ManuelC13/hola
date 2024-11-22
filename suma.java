@@ -14,4 +14,8 @@ public class suma {
 
         return resultado;
     }
+
+    public String autenticacion(){
+        return "estas autenticado";
+    }
 }
